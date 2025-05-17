@@ -2,14 +2,14 @@
 
 A collection of C programs written during my learning phase. This repository contains various programs that demonstrate fundamental concepts in C programming.
 
-# Contents 📁
+## Contents 📁
 - Basic programs (e.g., hello world, variables, data types)
 - Control structures (e.g., if-else, switch, loops)
 - Functions and modular programming
 - Arrays and strings
 - Pointers and memory management
 
-# Purpose 🤔
+## Purpose 🤔
 This repository serves as a:
 
 - Learning log: Tracking my progress and experiments with C programming
@@ -17,8 +17,8 @@ This repository serves as a:
 - Practice ground: Testing and refining my coding skills
 
 
-# Contributions 🤝
+## Contributions 🤝
 Feel free to explore, fork, or clone the repository. If you have suggestions or improvements, please submit a pull request.
 
-# Author 👨‍💻
+### Author 👨‍💻
 Devendra Kumar 
