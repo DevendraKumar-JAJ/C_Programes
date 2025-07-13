@@ -1,6 +1,6 @@
 # C Programs Repository 📚
 
-A collection of C programs written during my learning phase. This repository contains various programs that demonstrate fundamental concepts in C programming.
+A collection of C programs and Small projects written during my learning phase. This repository contains various programs that demonstrate fundamental concepts in C programming.
 
 ## Contents 📁
 - Basic programs (e.g., hello world, variables, data types)
